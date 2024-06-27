@@ -39,7 +39,7 @@ This section contains a general overview of topics that you will learn in this l
    cd repos/
    ```
 
-1. <span id="github-to-local"></span>Now it's time to clone your repository from GitHub into your newly created `repos` directory with `git clone` followed by the URL you copied in the last step. The full command should look similar to `git clone git@github.com:USER-NAME/REPOSITORY-NAME.git`. If your URL looks like `https://github.com/USER-NAME/REPOSITORY-NAME.git`, you have selected the HTTPS option, not the required SSH option.
+1. <span id="github-to-local"></span>Now it's time to clone your repository from GitHub into your newly created `repos` directory with `git clone` followed by the URL you copied in the step before last. The full command should look similar to `git clone git@github.com:USER-NAME/REPOSITORY-NAME.git`. If your URL looks like `https://github.com/USER-NAME/REPOSITORY-NAME.git`, you have selected the HTTPS option, not the required SSH option.
 
    ```bash
    git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
