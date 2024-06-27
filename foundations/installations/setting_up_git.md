@@ -124,9 +124,7 @@ Go to [GitHub.com](https://github.com/) and create an account! During the accoun
 
 ![GitHub Email Settings](https://cdn.statically.io/gh/TheOdinProject/curriculum/770be14190139683dbe9933ca5e9393c797c63f2/foundations/installations/setting_up_git/imgs/01.png)
 
-Having these two options enabled will prevent accidentally exposing your personal email address when working with Git and GitHub.
-
-You may also notice an email address under the **Keep my email addresses private** option. This is your private GitHub email address. If you plan to use this, make note of it now as you will need it when setting up Git in the next step.
+Having these two options enabled will prevent accidentally exposing your personal email address when working with Git and GitHub. However, having the second option enabled prevents you from pushing to GitHub, which you will need to do in an upcoming lesson. We recommend using an email address that is okay to share (not your personal email address!) so that you can leave the second box unclicked safely. You may also notice an email address under the **Keep my email addresses private** option. This is your private GitHub email address. If you plan to use this, make note of it now as you will need it when setting up Git in the next step.
 
 #### Step 2.2: Setup Git
 
